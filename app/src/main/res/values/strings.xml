@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MessagingApp</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_register">Register</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
